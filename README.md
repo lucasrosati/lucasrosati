@@ -8,9 +8,10 @@
 
 ## Hit me up:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rosati-cavalcanti-pereira-b62229128)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucasrosati)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lucasrosati)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rosati-cavalcanti-pereira-b62229128)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/lucasrosati)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/lucasrosati)
+
 
 
 ## Languages and Tools:
