@@ -1,6 +1,6 @@
 # 👋 Welcome, I'm Lucas
 
-👨‍💻 **Computer Science graduating from Cesar School**, Passionate about cybersecurity and continuous learning, while actively contributing to the technology ecosystem.
+👨‍💻 **Developer graduating in Computer Science at Cesar School**, Passionate about cybersecurity and continuous learning, while actively contributing to the technology ecosystem.
 
 🔨 I'm in the process of sharpening my knowledge in Javascript,Rust and Solana Smart Contracts, Driven by the challenge of developing state of the art innovative software solutions to solve problems.
 
