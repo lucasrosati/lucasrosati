@@ -2,7 +2,7 @@
 
 👨‍💻 **Developer graduating in Computer Science at Cesar School**, Passionate about cybersecurity and continuous learning, while actively contributing to the technology ecosystem.
 
-🔨 I'm in the process of sharpening my knowledge in Javascript,Rust and Solana Smart Contracts, Driven by the challenge of developing state of the art innovative software solutions to solve problems.
+🔨 I'm in the process of sharpening my knowledge in Javascript,React,Solidity and Ethereum Smart Contracts, Driven by the challenge of developing state of the art innovative software solutions to solve problems.
 
 📫 Feel free to reach out to me via email at [lucasrosati@hotmail.com](mailto:lucasrosati@hotmail.com)
 
@@ -23,5 +23,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
