@@ -1,8 +1,10 @@
 # 👋 Welcome, I'm Lucas
 
-👨‍💻 **Developer graduating in Computer Science at Cesar School**, Passionate about A.I and continuous learning, while actively contributing to the technology ecosystem.
+👨‍💻 **A.I Engineer building production-grade AI systems and shipping real products.
 
-🔨 I'm in the process of sharpening my knowledge in Javascript,React,Solidity and Ethereum Smart Contracts, Driven by the challenge of developing state of the art innovative software solutions to solve problems.
+🔨 Deep into multi-agent orchestration, LLM tooling and automation with Python, Claude API, React & FastAPI, turning workflows into software.
+
+🩺 Founder of MedFoco.
 
 📫 Feel free to reach out to me via email at [lucasrosati@hotmail.com](mailto:lucasrosati@hotmail.com)
 
