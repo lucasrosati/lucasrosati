@@ -1,6 +1,6 @@
 # 👋 Welcome, I'm Lucas
 
-👨‍💻 **A.I Engineer building production-grade AI systems and shipping real products.
+👨‍💻 **A.I Engineer building production-grade AI systems and shipping real products.**
 
 🔨 Deep into multi-agent orchestration, LLM tooling and automation with Python, Claude API, React & FastAPI, turning workflows into software.
 
